@@ -1,5 +1,7 @@
 
 # E-Commerce-Back-End [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### Link to walkthrough video: https://drive.google.com/file/d/13eYgJzJn9Xo2leJcoMcYByYodEdjGPKX/view
   
 # Table of Contents
   
